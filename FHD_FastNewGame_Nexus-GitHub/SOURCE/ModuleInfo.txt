@@ -1,0 +1,16 @@
+Name=FHD_FastNewGame
+NoNormalResources=1
+Author=FHD
+Priority=35
+Section=FHD_MODS
+SectionEng=FHD_MODS
+Languages=Rus,Eng
+Dependence=
+Conflict=
+SmallDescription=<color=0,140,255>Быстрый старт новой игры</color> (XenoNativeLoader / ScriptLibs)
+SmallDescription=<color=255,215,0>ver.0.2.3</color>
+FullDescription=Ускоряет стартовую симуляцию при создании новой партии. Турборежим (PresimDays=60) уменьшает количество предсимулируемых ходов и выполняет расчёт напрямую в потоке генерации без ~600 переключений синхронизации.
+FullDescription=<br>
+FullDescription=Поддерживает мгновенное включение и отключение в меню модов без перезапуска игры и без ошибок блокировки пакетов. Настройки: XenoNative\Plugins\FHD_FastNewGame\FHD_FastNewGame.ini.
+SmallDescriptionEng=Faster new game generation (XenoNativeLoader / ScriptLibs)
+FullDescriptionEng=Speeds up pre-simulation during new game creation. Supports live enabling and disabling in the mod menu without game restarts.

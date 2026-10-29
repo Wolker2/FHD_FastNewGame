@@ -1,0 +1,46 @@
+{
+  "input_archive": "FHD_FastNewGame_Native_v0.2.3_FIXED.zip",
+  "input_size_bytes": 359946,
+  "input_sha256": "ae9d3604841662be2d377fc7a1a3b6cbab426723fdaa721e3ebdbb0d8b067b91",
+  "input_files": 20,
+  "original_manifest_entries_verified": 19,
+  "own_runtime_files_reproduced": [
+    "XenoNative.ini",
+    "Mods/FHD_MODS/FHD_FastNewGame/ModuleInfo.txt",
+    "Mods/FHD_MODS/FHD_FastNewGame/README_RU.txt",
+    "Mods/FHD_MODS/FHD_FastNewGame/CFG/Main.dat",
+    "Mods/FHD_MODS/FHD_FastNewGame/Native/FHD_FastNewGame.XenoPlugin.dll",
+    "Mods/FHD_MODS/FHD_FastNewGame/Native/FHD_FastNewGame.XenoPlugin.ini",
+    "XenoNative/Plugins/FHD_FastNewGame/FHD_FastNewGame.XenoPlugin.dll",
+    "XenoNative/Plugins/FHD_FastNewGame/FHD_FastNewGame.ini",
+    "XenoNative/Plugins/FHD_FastNewGame/XenoNativePlugin.ini"
+  ],
+  "unchanged_native_and_cfg_sources": {
+    "SOURCE/CFG/Main.txt": "aa26a8b39c4ed13a07057895789f209e9836bcf524c86b747ab869d63b90b410",
+    "SOURCE/Native/fast_new_game.def": "7c54c79ad8ccd471c033f683129be554b3564991ba1ffafd12698751e871e045",
+    "SOURCE/Native/build.sh": "3ee7c5dc81a610a2f861bfb106415ba8578d281db4544bb1ea2288d5ba739a8a",
+    "SOURCE/Native/fast_new_game.c": "9b30683cbf0fbe25ee90517ded0d2bb09af54afbd1d8c7ab4fe0ca2c8d8e665d",
+    "SOURCE/Native/elf_to_coff.py": "ffb0e4ed2f11dd81c03140b66b9d508a4594f6e430b75fba8bcffbc7605e2a62"
+  },
+  "excluded_external_components": {
+    "dsound.dll": "51edd74422f15802f0a4010d3cb941b88c0f1bb242f1b9507b3b4e1af9ba4898",
+    "XenoCore.dll": "d509201d10bac1518768ba4f9ed61fa70454ed4a3d7ac6ffd440ddd22131628d",
+    "XenoNative/Plugins/XenoStable/XenoStable.Runtime.dll": "dea9829531bb61b43a0427011810e05a86537110b4a983318f18975d66e8a4cb",
+    "XenoNative/Plugins/XenoStable/XenoNativePlugin.ini": "af86e23f870126d319aa06b00e5078812e172e6974065fc61b1e224220a5e75d",
+    "XenoNative/Plugins/XenoStable/XenoStable.ini": "adba10e58595f90149c94584d6af76742ad89287c3a31101413aaf3508256024"
+  },
+  "excluded_manifest": "The original SHA256SUMS.txt includes third-party DLLs and old source layout; replaced by scoped original hashes and provenance.",
+  "metadata_conversion": "Original CP1251 ModuleInfo decoded to UTF-8 source; builder restores original encoding.",
+  "external_component_sources_supplied": false,
+  "own_plugin_source_complete": true,
+  "full_original_bundle_reproduced": false,
+  "production_code_changed": false,
+  "dat_compiler_reused_from": "Previously verified local FHD_LeftStats source-preparation toolchain; SOURCE/compile_srhd_dat.py copied unchanged into tools/compile_srhd_dat.py.",
+  "generated_scope_notice": "INSTALL_SCOPE_RU.txt is an extra explanatory file; all 9 original scoped runtime files remain byte-identical.",
+  "fresh_verification": {
+    "own_runtime_files_identical": 9,
+    "native_checks_passed": 54,
+    "game_process_executed": false,
+    "original_full_bundle_reproduced": false
+  }
+}

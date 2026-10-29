@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://deb.debian.org/debian/pool/main/g/gcc-12/cpp-12_12.2.0-14+deb12u1_amd64.deb",
+    "name": "cpp-12_12.2.0-14+deb12u1_amd64.deb",
+    "size": 9767788,
+    "sha256": "fedbb98e877adde83c983c6071537ea25ac52b277ac6e4637d85025949ca1454"
+  },
+  {
+    "url": "https://deb.debian.org/debian/pool/main/g/gcc-12/gcc-12_12.2.0-14+deb12u1_amd64.deb",
+    "name": "gcc-12_12.2.0-14+deb12u1_amd64.deb",
+    "size": 19268852,
+    "sha256": "b46f33cc2ec245e435e043807038cecf4b201ef004800e9dfc1455240360e49d"
+  },
+  {
+    "url": "https://deb.debian.org/debian/pool/main/b/binutils/binutils-x86-64-linux-gnu_2.40-2_amd64.deb",
+    "name": "binutils-x86-64-linux-gnu_2.40-2_amd64.deb",
+    "size": 2245848,
+    "sha256": "2d7ea8a570d768224d7f2424abbe6f373d2154865a1fa7f56c80d43ecf492521"
+  },
+  {
+    "url": "https://deb.debian.org/debian/pool/main/b/binutils/libbinutils_2.40-2_amd64.deb",
+    "name": "libbinutils_2.40-2_amd64.deb",
+    "size": 572104,
+    "sha256": "fcf55b99e5f8a78f3c8ce9b6957f1024f394cf20c196b100d308a57e43547710"
+  }
+]

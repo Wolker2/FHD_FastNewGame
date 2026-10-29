@@ -1,0 +1,11 @@
+{
+  "XenoNative.ini": "083e4621dc9663df0de0dfbfab9498c74c41579c1065f437cdb779d6b2a4918e",
+  "Mods/FHD_MODS/FHD_FastNewGame/ModuleInfo.txt": "5a3d48e74147e40e4f6e6df3331d7f640fc8a372ed61ebb5236e366f637a867e",
+  "Mods/FHD_MODS/FHD_FastNewGame/README_RU.txt": "8de675d09d01fee7e41cd841d7e8f1303ba245974f93f439b85f57cf7ddf0ded",
+  "Mods/FHD_MODS/FHD_FastNewGame/CFG/Main.dat": "4aced60ae87c1b1a83dffda85cbc996b6c3458dd3cf10a27cc496f891310b11f",
+  "Mods/FHD_MODS/FHD_FastNewGame/Native/FHD_FastNewGame.XenoPlugin.dll": "3225b73c06e2e82cfb7ec21a20951fd3b6a1e3584093a77f4ceef51f01e1d08d",
+  "Mods/FHD_MODS/FHD_FastNewGame/Native/FHD_FastNewGame.XenoPlugin.ini": "465bf6a5fc9965d7ca395af5fdff50fd9ff0b17964ff8afd01a586c5966603a1",
+  "XenoNative/Plugins/FHD_FastNewGame/FHD_FastNewGame.XenoPlugin.dll": "3225b73c06e2e82cfb7ec21a20951fd3b6a1e3584093a77f4ceef51f01e1d08d",
+  "XenoNative/Plugins/FHD_FastNewGame/FHD_FastNewGame.ini": "c722e0c24796add00a7795009b387772750c8451b1924e641edb869d9dc93d50",
+  "XenoNative/Plugins/FHD_FastNewGame/XenoNativePlugin.ini": "5db922be66df9a634bf3fcf321362f53604aed45defdfd5ce5a3fee161a3b600"
+}
