@@ -1,0 +1,36 @@
+DLLSettings ^{
+    NextDay ^{
+        ABTest=0
+        AsteroidScanFast=1
+        AttackStrengthFast=1
+        AutoEquipDiag=0
+        DayProfile=0
+        EvalEffOnce=1
+        EvalItemDiag=0
+        EvalItemSkip=1
+        ExceptionTrace=0
+        FollowRadiusFast=1
+        Galaxy=1
+        GameLog=0
+        PirateNameFast=1
+        Planet=1
+        PlanetPosCache=1
+        Player=1
+        RecruitWingmanFast=1
+        RepelOptimized=1
+        Sampler=0
+        SamplerIntervalMs=1
+        SamplerReportDays=25
+        SelectBestFast=1
+        Ship=1
+        ShipSubclasses=1
+        SkillLevelFast=1
+        Star=0
+        StarDigest=0
+        StarOptimized=0
+        StatBonusFast=1
+        StatMemoDiag=0
+        Timing=0
+        TransitDiag=0
+    }
+}

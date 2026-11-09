@@ -1,0 +1,6 @@
+CFG/Main.txt
+CFG/Rus/Lang.txt
+Native/build.sh
+Native/elf_to_coff.py
+Native/fast_new_game.c
+Native/fast_new_game.def

@@ -1,0 +1,23 @@
+Data ^{
+    ScriptLibs ^{
+        FHDFastNewGameNative ~{
+            Path=Mods\FHD_MODS\FHD_FastNewGame\Native\FHD_FastNewGame.XenoPlugin.dll
+            FHDFastNewGame_Init=int,FHDFastNewGame_Init
+        }
+        FastNewGame=FHDFastNewGameNative
+    }
+}
+BV ^{
+    OnStart ^{
+        FHDFastNewGameInit ~{
+            00=unknown init=ImportedFunction('FHDFastNewGameNative','FHDFastNewGame_Init');
+            01=init();
+        }
+    }
+    OnLoad ^{
+        FHDFastNewGameInit ~{
+            00=unknown init=ImportedFunction('FHDFastNewGameNative','FHDFastNewGame_Init');
+            01=init();
+        }
+    }
+}
